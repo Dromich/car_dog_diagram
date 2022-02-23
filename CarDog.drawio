@@ -1,9 +1,12 @@
-<mxfile modified="2022-02-23T16:51:33.684Z" host="app.diagrams.net" agent="5.0 (X11)" etag="GISBg07vr20gl6XPbQ6A" version="16.6.2" type="github">
+<mxfile modified="2022-02-23T16:54:31.889Z" host="app.diagrams.net" agent="5.0 (X11)" etag="cVfJV7mbyuiypAa2MAuX" version="16.6.2" type="github">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="Page-1">
     <mxGraphModel dx="2840" dy="893" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="UoxV15uRkX_Niu28RtxY-48" value="" style="shape=ext;double=1;whiteSpace=wrap;html=1;aspect=fixed;dashed=1;labelBackgroundColor=#B3B3B3;sketch=0;fontSize=7;fontColor=#ffffff;fillColor=#647687;strokeColor=#314354;opacity=10;glass=0;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="-242.25" width="880" height="880" as="geometry" />
+        </mxCell>
         <mxCell id="E5yIIu5KzH-er2fL6q-M-44" value="ПАРСІНГ СЕРВЕР" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;labelBackgroundColor=none;sketch=1;fontSize=30;strokeWidth=2;labelBorderColor=none;fillColor=#bac8d3;strokeColor=#23445d;" parent="1" vertex="1">
           <mxGeometry x="30" y="132.75" width="519.37" height="77.25" as="geometry" />
         </mxCell>
