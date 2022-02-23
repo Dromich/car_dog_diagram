@@ -1,6 +1,6 @@
-<mxfile modified="2022-02-23T16:45:29.637Z" host="app.diagrams.net" agent="5.0 (X11)" etag="vTgoj8QnDXirGHX8D9NR" version="16.6.2" type="github">
+<mxfile modified="2022-02-23T16:46:46.169Z" host="app.diagrams.net" agent="5.0 (X11)" etag="svEI0VzBrl2ioYBS89k3" version="16.6.2" type="github">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="Page-1">
-    <mxGraphModel dx="2354" dy="633" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2947" dy="949" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -238,13 +238,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="E5yIIu5KzH-er2fL6q-M-139" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.614;entryY=0.991;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=10;fontColor=default;startArrow=classic;startFill=1;endArrow=classic;endFill=1;strokeColor=#d6b656;strokeWidth=2;fillColor=#fff2cc;" parent="1" source="E5yIIu5KzH-er2fL6q-M-133" target="E5yIIu5KzH-er2fL6q-M-120" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="770" y="310" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="E5yIIu5KzH-er2fL6q-M-141" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;fontSize=10;fontColor=default;startArrow=classic;startFill=1;endArrow=classic;endFill=1;strokeColor=#d6b656;strokeWidth=2;fillColor=#fff2cc;" parent="1" source="E5yIIu5KzH-er2fL6q-M-133" target="E5yIIu5KzH-er2fL6q-M-119" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -252,6 +245,9 @@
               <mxPoint x="810" y="660" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="UoxV15uRkX_Niu28RtxY-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=7;fontColor=#FFFFFF;startArrow=classic;startFill=1;strokeColor=#d6b656;strokeWidth=2;fillColor=#fff2cc;" edge="1" parent="1" source="E5yIIu5KzH-er2fL6q-M-133" target="E5yIIu5KzH-er2fL6q-M-120">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="E5yIIu5KzH-er2fL6q-M-133" value="&lt;div align=&quot;justify&quot;&gt;ТРЕНДИ ТА АНАЛІТИКА&lt;/div&gt;" style="sketch=0;html=1;dashed=0;whitespace=wrap;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon;prIcon=api;rounded=1;shadow=0;glass=0;labelBackgroundColor=#FFFFFF;labelBorderColor=none;fontSize=10;fontColor=default;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="708" y="620" width="83.33" height="80" as="geometry" />
