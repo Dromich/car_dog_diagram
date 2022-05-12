@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-05-12T13:49:10.346Z" agent="5.0 (X11)" etag="nkyYSQ5D8KApZDjvvLV_" version="18.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-12T13:56:28.042Z" agent="5.0 (X11)" etag="5IvrMR6TviI6_JKvRZwq" version="18.0.3" type="github">
   <diagram name="Page-1" id="edf60f1a-56cd-e834-aa8a-f176f3a09ee4">
-    <mxGraphModel dx="1185" dy="633" grid="1" gridSize="9" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1673" dy="893" grid="1" gridSize="9" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -87,7 +87,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="60e70716793133e9-44" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;labelBackgroundColor=none;startSize=5;endArrow=classicThin;endFill=1;endSize=5;jettySize=auto;orthogonalLoop=1;strokeWidth=1;fontFamily=Verdana;fontSize=8;startArrow=none;" parent="1" source="-8DFNkUAM9DwrUs5GfIV-34" target="60e70716793133e9-16" edge="1">
+        <mxCell id="60e70716793133e9-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;labelBackgroundColor=none;startSize=5;endArrow=classicThin;endFill=1;endSize=5;jettySize=auto;orthogonalLoop=1;strokeWidth=1;fontFamily=Verdana;fontSize=8;startArrow=none;" parent="1" source="-8DFNkUAM9DwrUs5GfIV-34" target="60e70716793133e9-16" edge="1">
           <mxGeometry x="-1" y="-82" relative="1" as="geometry">
             <mxPoint x="55" y="-77" as="offset" />
             <Array as="points">
@@ -103,7 +103,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="60e70716793133e9-15" value="Додаємо до наявного оголошення статус дубльовано" style="whiteSpace=wrap;html=1;rounded=0;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" parent="1" vertex="1">
-          <mxGeometry x="590" y="620" width="120" height="40" as="geometry" />
+          <mxGeometry x="570" y="640" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="-8DFNkUAM9DwrUs5GfIV-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=7;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="60e70716793133e9-16" target="-8DFNkUAM9DwrUs5GfIV-12">
           <mxGeometry relative="1" as="geometry" />
@@ -138,8 +138,13 @@
             <mxPoint x="640" y="359.9999999999999" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="-8DFNkUAM9DwrUs5GfIV-80" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=11;strokeWidth=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="-8DFNkUAM9DwrUs5GfIV-10" target="-8DFNkUAM9DwrUs5GfIV-79">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="965" y="641" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="-8DFNkUAM9DwrUs5GfIV-10" value="Додаємо дані оголошення до наявного (sourceData)" style="whiteSpace=wrap;html=1;rounded=0;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="1">
-          <mxGeometry x="770" y="620" width="120" height="40" as="geometry" />
+          <mxGeometry x="765" y="621" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="-8DFNkUAM9DwrUs5GfIV-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=7;" edge="1" parent="1" source="-8DFNkUAM9DwrUs5GfIV-12" target="-8DFNkUAM9DwrUs5GfIV-23">
           <mxGeometry relative="1" as="geometry" />
@@ -150,7 +155,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="-8DFNkUAM9DwrUs5GfIV-12" value="створюємо нові sourceData" style="whiteSpace=wrap;html=1;rounded=0;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="1">
-          <mxGeometry x="570" y="910" width="120" height="40" as="geometry" />
+          <mxGeometry x="570" y="795" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="-8DFNkUAM9DwrUs5GfIV-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=7;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="-8DFNkUAM9DwrUs5GfIV-14" target="-8DFNkUAM9DwrUs5GfIV-23">
           <mxGeometry relative="1" as="geometry">
@@ -158,10 +163,15 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="-8DFNkUAM9DwrUs5GfIV-14" value="створюємо нові PriceData" style="whiteSpace=wrap;html=1;rounded=0;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="1">
-          <mxGeometry x="570" y="980" width="120" height="40" as="geometry" />
+          <mxGeometry x="570" y="890" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="-8DFNkUAM9DwrUs5GfIV-81" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=11;strokeWidth=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="-8DFNkUAM9DwrUs5GfIV-23" target="-8DFNkUAM9DwrUs5GfIV-79">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="974" y="866" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="-8DFNkUAM9DwrUs5GfIV-23" value="прив&#39;язуємо дані до оголошення" style="whiteSpace=wrap;html=1;rounded=0;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="1">
-          <mxGeometry x="840" y="790" width="120" height="40" as="geometry" />
+          <mxGeometry x="774" y="846" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="-8DFNkUAM9DwrUs5GfIV-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=7;" edge="1" parent="1" source="-8DFNkUAM9DwrUs5GfIV-25">
           <mxGeometry relative="1" as="geometry">
@@ -174,16 +184,8 @@
         <mxCell id="-8DFNkUAM9DwrUs5GfIV-32" value="прив&#39;язуємо дані до юзера" style="whiteSpace=wrap;html=1;rounded=0;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="1">
           <mxGeometry x="765" y="457" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="-8DFNkUAM9DwrUs5GfIV-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=6;" edge="1" parent="1" source="-8DFNkUAM9DwrUs5GfIV-35">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="567" y="918" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="531" y="815" />
-              <mxPoint x="531" y="900" />
-              <mxPoint x="549" y="900" />
-              <mxPoint x="549" y="918" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="-8DFNkUAM9DwrUs5GfIV-74" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=9;strokeWidth=1;" edge="1" parent="1" source="-8DFNkUAM9DwrUs5GfIV-35" target="-8DFNkUAM9DwrUs5GfIV-12">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-8DFNkUAM9DwrUs5GfIV-35" value="&lt;font style=&quot;font-size: 6px;&quot;&gt;&lt;b&gt;оголошення знайдено&lt;/b&gt;&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;shadow=1;fontSize=7;" vertex="1" parent="1">
           <mxGeometry x="410" y="780" width="80" height="70" as="geometry" />
@@ -197,13 +199,11 @@
         <mxCell id="-8DFNkUAM9DwrUs5GfIV-59" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=9;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="-8DFNkUAM9DwrUs5GfIV-50" target="-8DFNkUAM9DwrUs5GfIV-25">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-8DFNkUAM9DwrUs5GfIV-64" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=9;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="-8DFNkUAM9DwrUs5GfIV-50" target="60e70716793133e9-12">
+        <mxCell id="-8DFNkUAM9DwrUs5GfIV-78" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=9;strokeWidth=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="-8DFNkUAM9DwrUs5GfIV-50" target="60e70716793133e9-12">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="333" y="558" as="targetPoint" />
+            <mxPoint x="324" y="567" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="310" y="540" />
-              <mxPoint x="378" y="540" />
-              <mxPoint x="378" y="553" />
+              <mxPoint x="310" y="533" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -214,13 +214,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-8DFNkUAM9DwrUs5GfIV-53" value="перевіряємо дані продавця " style="rounded=1;whiteSpace=wrap;html=1;shadow=1;fontSize=6;" vertex="1" parent="1">
-          <mxGeometry x="369" y="351" width="92" height="43" as="geometry" />
+          <mxGeometry x="344" y="350" width="92" height="43" as="geometry" />
         </mxCell>
         <mxCell id="-8DFNkUAM9DwrUs5GfIV-56" value="&lt;b&gt;&lt;font style=&quot;font-size: 9px;&quot;&gt;Yes&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=6;" vertex="1" parent="1">
           <mxGeometry x="360" y="300" width="27" height="9" as="geometry" />
         </mxCell>
         <mxCell id="-8DFNkUAM9DwrUs5GfIV-34" value="Перевіряємо оголошення на наявність серед інших оголошень з донора (&lt;b&gt;adsId&lt;/b&gt;)" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;fontSize=7;" vertex="1" parent="1">
-          <mxGeometry x="387" y="720" width="100" height="50" as="geometry" />
+          <mxGeometry x="397" y="720" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="-8DFNkUAM9DwrUs5GfIV-62" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;labelBackgroundColor=none;startSize=5;endArrow=none;endFill=1;endSize=5;jettySize=auto;orthogonalLoop=1;strokeWidth=1;fontFamily=Verdana;fontSize=8" edge="1" parent="1" source="60e70716793133e9-14" target="-8DFNkUAM9DwrUs5GfIV-34">
           <mxGeometry x="-0.9091" y="-10" relative="1" as="geometry">
@@ -235,6 +235,12 @@
         </mxCell>
         <mxCell id="-8DFNkUAM9DwrUs5GfIV-70" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=9;" vertex="1" parent="1">
           <mxGeometry x="270" y="513" width="27" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="-8DFNkUAM9DwrUs5GfIV-73" value="&lt;div&gt;No&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="412" y="676" width="27" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="-8DFNkUAM9DwrUs5GfIV-79" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;&lt;b&gt;END&lt;/b&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;shadow=1;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="909" y="726" width="66" height="44" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
