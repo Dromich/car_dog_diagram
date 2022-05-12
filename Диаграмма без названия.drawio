@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-05-12T13:41:45.640Z" agent="5.0 (X11)" etag="Ul_qdV0gKelextSonolo" version="18.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-12T13:43:30.494Z" agent="5.0 (X11)" etag="X6Z_yKOgaw_uWJ4aOuyh" version="18.0.3" type="github">
   <diagram name="Page-1" id="edf60f1a-56cd-e834-aa8a-f176f3a09ee4">
-    <mxGraphModel dx="790" dy="422" grid="1" gridSize="9" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1185" dy="633" grid="1" gridSize="9" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -63,7 +63,7 @@
         <mxCell id="60e70716793133e9-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;labelBackgroundColor=none;startSize=5;endArrow=classicThin;endFill=1;endSize=5;jettySize=auto;orthogonalLoop=1;strokeWidth=1;fontFamily=Verdana;fontSize=8" parent="1" source="60e70716793133e9-10" target="60e70716793133e9-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="60e70716793133e9-10" value="Зв&#39;язуємо телефон і юзера" style="whiteSpace=wrap;html=1;rounded=0;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" parent="1" vertex="1">
+        <mxCell id="60e70716793133e9-10" value="Зв&#39;язуємо телефон і продавця" style="whiteSpace=wrap;html=1;rounded=0;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" parent="1" vertex="1">
           <mxGeometry x="520" y="340" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="60e70716793133e9-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;labelBackgroundColor=none;startSize=5;endArrow=classicThin;endFill=1;endSize=5;jettySize=auto;orthogonalLoop=1;strokeWidth=1;fontFamily=Verdana;fontSize=8" parent="1" source="60e70716793133e9-12" target="60e70716793133e9-13" edge="1">
@@ -159,14 +159,16 @@
         <mxCell id="-8DFNkUAM9DwrUs5GfIV-23" value="прив&#39;язуємо дані до оголошення" style="whiteSpace=wrap;html=1;rounded=0;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="1">
           <mxGeometry x="840" y="790" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="-8DFNkUAM9DwrUs5GfIV-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=7;" edge="1" parent="1" source="-8DFNkUAM9DwrUs5GfIV-25" target="-8DFNkUAM9DwrUs5GfIV-32">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="-8DFNkUAM9DwrUs5GfIV-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=7;" edge="1" parent="1" source="-8DFNkUAM9DwrUs5GfIV-25">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="765" y="477" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="-8DFNkUAM9DwrUs5GfIV-25" value="створюємо нові юзер сорц дата" style="whiteSpace=wrap;html=1;rounded=0;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="1">
           <mxGeometry x="540" y="457" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="-8DFNkUAM9DwrUs5GfIV-32" value="прив&#39;язуємо дані до юзера" style="whiteSpace=wrap;html=1;rounded=0;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="1">
-          <mxGeometry x="801" y="437" width="120" height="40" as="geometry" />
+          <mxGeometry x="765" y="457" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="-8DFNkUAM9DwrUs5GfIV-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=6;" edge="1" parent="1" source="-8DFNkUAM9DwrUs5GfIV-35">
           <mxGeometry relative="1" as="geometry">
