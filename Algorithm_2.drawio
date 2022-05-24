@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-13T15:25:37.230Z" agent="5.0 (X11)" etag="5SfjBYQrDVWl_Vd_LLSD" version="18.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-24T08:23:12.684Z" agent="5.0 (X11)" etag="e12ZJfvQfybRBy1ANiAB" version="18.1.1" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="2249" dy="759" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -113,7 +113,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Zq3hUtZiWWwdUONuJrPH-36" value="&lt;div style=&quot;font-size: 9px;&quot;&gt;Пишемо нові дані в sorceData оголошення&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="30" y="980" width="120" height="120" as="geometry" />
+          <mxGeometry x="30" y="1100" width="120" height="120" as="geometry" />
         </mxCell>
         <mxCell id="Zq3hUtZiWWwdUONuJrPH-38" value="&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 13px;&quot;&gt;Price&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=11;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="260" y="800" width="50" height="20" as="geometry" />
@@ -131,7 +131,7 @@
           <mxGeometry x="330" y="940" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Zq3hUtZiWWwdUONuJrPH-42" value="&lt;b&gt;END&lt;/b&gt;" style="rhombus;whiteSpace=wrap;html=1;fontSize=13;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="200" y="940" width="80" height="80" as="geometry" />
+          <mxGeometry x="220" y="1040" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Zq3hUtZiWWwdUONuJrPH-48" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=9;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Zq3hUtZiWWwdUONuJrPH-44" target="Zq3hUtZiWWwdUONuJrPH-47" edge="1">
           <mxGeometry relative="1" as="geometry" />
